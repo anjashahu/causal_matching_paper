@@ -2,8 +2,8 @@
 A GitHub repository to accompany the paper titled "Method comparison and estimation of causal effects of insomnia on health outcomes in a survey sampled population: the HCHS/SOL". The repository contains code used for the simulation study and data analysis.
 
 ## Table of contents
-* [Simulation study](#navigating-repo)
-* [Data analysis](#accessing-app)
+* [Simulation study](#simulation-study)
+* [Data analysis](#data-analysis)
 * [Data](#data)
 
 ## Simulation study
